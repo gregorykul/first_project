@@ -1,4 +1,7 @@
 <a id="readme-top"></a>
+
+![There are too many ways to get drunk. Chose wisely]()
+
 ## About the project
 
 There are many great README templates
