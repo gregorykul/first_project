@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-![There are too many ways to get drunk. Chose wisely]()
+![There are too many ways to get drunk. Chose wisely](https://github.com/gregorykul/first_project/blob/master/Google.png)
 
 ## About the project
 
